@@ -1,0 +1,11 @@
+title: Durga Sai Teja Thota
+email: durgasaitejathota@gmail.com
+description: >
+  Full Stack Developer | Salesforce QA Engineer | Data Enthusiast
+baseurl: ""
+url: "https://durgasaitejathota.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
